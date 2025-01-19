@@ -1,0 +1,9 @@
+Package: taxfinder 
+Title: Find Taxa Associated with Environmental Variables 
+Version: 0.1.0
+Authors@R: person("Zjardyn", "Liera-Hood", email = "zlieraho@uwaterloo.ca", role = c("aut", "cre"))
+Description: Uses lasso regression to find linear and optionally, non-linear relationships.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+
